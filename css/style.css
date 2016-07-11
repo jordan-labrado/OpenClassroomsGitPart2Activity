@@ -1,0 +1,9 @@
+body {
+	background: #ddd;
+	font-family: 'Terminal Dosis', Arial, sans-serif;
+}
+.ca-menu{
+    padding:0;
+    margin:20px auto;
+    width: 1020px;
+}
